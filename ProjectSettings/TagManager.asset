@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CheckBox
+  - Elevator
+  - Human
+  - Endline
+  - EventObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Up
+  - Down
+  - Fix
+  - UpHuman
+  - DownHuman
+  - AfterHuman
+  - UpElevator
+  - DownElevator
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Elevator
+    uniqueID: 3737391699
+    locked: 0
+  - name: Floor
+    uniqueID: 289754145
+    locked: 0
+  - name: HumanAfter
+    uniqueID: 415232675
+    locked: 0
+  - name: HumanUp
+    uniqueID: 2642509813
+    locked: 0
+  - name: HumanDown
+    uniqueID: 1155688795
+    locked: 0
+  - name: FixingImage
+    uniqueID: 3150037303
+    locked: 0
+  - name: DirtyB
+    uniqueID: 3113382093
+    locked: 0
+  - name: DirtyF
+    uniqueID: 202371889
+    locked: 0
+  - name: UI
+    uniqueID: 4199154647
+    locked: 0

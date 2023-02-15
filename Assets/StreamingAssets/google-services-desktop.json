@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400815940659",
+    "project_id": "dontstopme-aff8f",
+    "storage_bucket": "dontstopme-aff8f.appspot.com",
+    "firebase_url": "https://dontstopme-aff8f-default-rtdb.asia-southeast1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400815940659:android:cf2a4dd830481d921baf46",
+        "android_client_info": {
+          "package_name": "com.company.BusyElevatorDontstopmenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400815940659-ph4jtj978pkk8thmtbdbl8192db4b3sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqkjAXzyEscr-qIjKdf-4BzbVap7botMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400815940659-ph4jtj978pkk8thmtbdbl8192db4b3sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
