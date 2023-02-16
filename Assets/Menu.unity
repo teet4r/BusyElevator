@@ -382,7 +382,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &73044465
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -408,7 +408,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &86487324
 GameObject:
@@ -1370,83 +1370,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1087208366}
   m_CullTransparentMesh: 1
---- !u!1 &1131829391
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1131829392}
-  - component: {fileID: 1131829393}
-  - component: {fileID: 1131829394}
-  m_Layer: 0
-  m_Name: DBManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1131829392
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131829391}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.0169398, y: 3.484808, z: 692.13605}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1131829393
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131829391}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 18b815ee4753cd24fa67cccd5bee4c68, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  user_id: 
-  init_done: 0
---- !u!114 &1131829394
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131829391}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2287d4772d7986742bde7f1292d9d6c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  game_connected_count: 0
-  game_clear_count: 0
-  stolen_gold_count: 0
-  caught_thief_count: 0
-  spend_gold_for_fix_elevator_count: 0
-  illed_human_count: 0
-  pay_count: 0
-  convenience_store_earned_gold_count: 0
-  total_transport_human_count: 0
-  korean_speed_whether: 0
-  english_whether: 0
-  higher_than_63_building_whether: 0
-  higher_than_jamsil_tower_whether: 0
-  employ_cleaner_more_than_ten_whether: 0
-  fool_player_whether: 0
-  choose_no_effect_buff_whether: 0
-  dont_employ_guard_whether: 0
-  master_more_than_two_whether: 0
 --- !u!1 &1286437574
 GameObject:
   m_ObjectHideFlags: 0
